@@ -1,6 +1,6 @@
 # Krypton Client
 
-Krypton Client is a utility modification showcased in this video: [Video Link](https://www.youtube.com/watch?v=8WdMYKYlv3g)
+Krypton Client is a utility modification showcased in this video: [Link](https://discord.gg/36ZZZJ2C4k)
 
 ## 🌟 Features
 
