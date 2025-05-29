@@ -59,7 +59,7 @@ Based on the video, Krypton Client offers a wide array of features, including bu
 ---
 ### ⚙️ Client Settings
 * **Self Destruct**
-* Server specific settings (e.g., **0b0tSMP** mentioned)
+* Server specific settings (e.g., **DONUTSMP**)
 * Adjustable **Alpha**
 * Adjustable **Range**
 * **Keybind** customization
